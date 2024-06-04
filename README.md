@@ -14,7 +14,7 @@ Ahora vamos con la modificación del codigo para lograr lo que se pide en la par
 
    * LibroException
 
-    ![image](https://github.com/Nayib27/Tarea2/assets/121632251/dee48e20-afb5-4b7b-bfbc-dde4953e4032)
+    ![image](https://github.com/Nayib27/Tarea2/assets/121632251/c55090a7-8e66-4eed-a079-bc24c5a67c4f)
 
 
   
