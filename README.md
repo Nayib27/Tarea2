@@ -28,10 +28,13 @@ Ahora vamos con la modificación del codigo para lograr lo que se pide en la par
    ![image](https://github.com/Nayib27/Tarea2/assets/121632251/5e326b9b-a34b-4224-99be-9329600f8ade)
 
 
-   * Ejecución
+   cerronea 
   
   ![image](https://github.com/Nayib27/Tarea2/assets/121632251/d0c1546e-f597-43eb-89b7-0bf188834f3e)
 
 
 
+* Ejecución libro creado
+  
+  ![image](https://github.com/Nayib27/Tarea2/assets/121632251/eb5815b7-e47c-4ffc-a631-0d5f44505cc4)
 
