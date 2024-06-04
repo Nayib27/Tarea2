@@ -28,7 +28,7 @@ Ahora vamos con la modificación del codigo para lograr lo que se pide en la par
    ![image](https://github.com/Nayib27/Tarea2/assets/121632251/5e326b9b-a34b-4224-99be-9329600f8ade)
 
 
-   cerronea 
+   * Ejecución erronea 
   
   ![image](https://github.com/Nayib27/Tarea2/assets/121632251/d0c1546e-f597-43eb-89b7-0bf188834f3e)
 
